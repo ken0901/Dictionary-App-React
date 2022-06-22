@@ -1,0 +1,96 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "meaning": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "car",
+      "meaning": "a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people.",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "school",
+      "meaning": "an institution for educating children.",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "pencil",
+      "meaning": "an instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood or fixed in a metal or plastic case.",
+      "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "meaning": "an opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "3",
+      "eng": "house",
+      "meaning": "a building for human habitation, especially one that is lived in by a family or small group of people.",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "4",
+      "eng": "monkey",
+      "meaning": "a small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "4",
+      "eng": "apple",
+      "meaning": "The round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "3",
+      "eng": "apple",
+      "meaning": "The round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "keyboard",
+      "meaning": "a panel of keys that operate a computer or typewriter.",
+      "isDone": false,
+      "id": 16
+    }
+  ]
+}
